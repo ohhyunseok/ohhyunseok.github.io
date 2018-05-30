@@ -1,2 +1,7 @@
 theme: jekyll-theme-slate
 title: Devbusan LAB
+markdown: kramdown
+paginate: 10
+description: Development & Technical Training
+navigation: True
+plugins: [jekyll-paginate, jekyll-feed, jekyll-gist]
