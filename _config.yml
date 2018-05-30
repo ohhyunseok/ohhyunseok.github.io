@@ -5,3 +5,13 @@ paginate: 10
 description: Development & Technical Training
 navigation: True
 plugins: [jekyll-paginate, jekyll-feed, jekyll-gist]
+collections:
+  featured_categories:
+    permalink:       /category/:name/
+    output:          true
+  featured_tags:
+    permalink:       /tag/:name/
+    output:          true
+  projects:
+    permalink:       /projects/:path/
+    output:          true
