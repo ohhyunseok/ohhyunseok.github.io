@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "여니아빠의 즐거운 프로그래밍 이야기"
+title                    : "현석이의 즐거운 프로그래밍 이야기"
 title_separator          : "-"
-name                     : "여니아빠"
-description              : "프로그래밍.... 참~ 좋은데 표현할 방법이 없네"
+name                     : "오현석"
+description              : "프로그래밍의 즐거움을 찾아서~"
 url                      : "https://ohhyunseok.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/ohhyunseok/ohhyunseok.github.io"
