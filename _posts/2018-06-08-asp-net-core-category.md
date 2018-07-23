@@ -3,10 +3,6 @@ layout: post
 title: "문서_제목"
 ---
 
-
-
-출처: http://recoveryman.tistory.com/323?category=635733 [회복맨 블로그]
-
 (1) asp.net core mvc 기본
 
 (2) Model
