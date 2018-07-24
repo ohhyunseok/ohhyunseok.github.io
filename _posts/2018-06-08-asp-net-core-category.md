@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "문서_제목"
+title: "asp net core category"
 ---
 
 (1) asp.net core mvc 기본
