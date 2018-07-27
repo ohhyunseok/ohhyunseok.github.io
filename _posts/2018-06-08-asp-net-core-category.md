@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "asp net core category"
+date : 2018-06-08
+categories: jekyll update
 ---
 
 (1) asp.net core mvc 기본
